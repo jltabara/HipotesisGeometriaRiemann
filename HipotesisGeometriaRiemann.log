@@ -1,12 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.18)  4 JUL 2015 23:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.18)  4 JUL 2015 23:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Sobre.las.Hipotesis.que.Sirven.de.Base.a.la.Geometria.(Bernard.Riemann)[MadMa
-th].tex
-
-(./Sobre.las.Hipotesis.que.Sirven.de.Base.a.la.Geometria.(Bernard.Riemann)[MadM
-ath].tex
+**HipotesisGeometriaRiemann.tex
+(./HipotesisGeometriaRiemann.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
@@ -245,13 +242,11 @@ LaTeX Font Info:    Redeclaring math accent \dot on input line 255.
 LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
 \symUfutm=\mathgroup5
 )
-(./Sobre.las.Hipotesis.que.Sirven.de.Base.a.la.Geometria.(Bernard.Riemann)[MadM
-ath].aux
+(./HipotesisGeometriaRiemann.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 )
-\openout1 = `Sobre.las.Hipotesis.que.Sirven.de.Base.a.la.Geometria.(Bernard.Rie
-mann)[MadMath].aux'.
+\openout1 = `HipotesisGeometriaRiemann.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -268,7 +263,8 @@ LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 17.
 LaTeX Font Info:    Try loading font information for FML+futm on input line 17.
 
- (/usr/local/texlive/2014/texmf-dist/tex/latex/fourier/fmlfutm.fd
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
 LaTeX Font Info:    ... okay on input line 17.
@@ -338,9 +334,7 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 5.51999pt on input line 42.
  [3] [4]
-[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
-(./Sobre.las.Hipotesis.que.Sirven.de.Base.a.la.Geometria.(Bernard.Riemann)[MadM
-ath].aux
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14] (./HipotesisGeometriaRiemann.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) )
@@ -350,12 +344,12 @@ LaTeX Info: Redefining \% on input line 6.
 ### bottom level 
 Here is how much of TeX's memory you used:
  2061 strings out of 493117
- 27245 string characters out of 6135432
+ 26750 string characters out of 6135432
  89448 words of memory out of 5000000
  5519 multiletter control sequences out of 15000+600000
  65762 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,30p,3456b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,30p,3401b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc
 }</usr/local/texlive/2014/texmf-dist/fonts/type1/public/fourier/fourier-mex.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/fourier/fourier-ml.pfb>
@@ -364,8 +358,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/l
 ocal/texlive/2014/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on Sobre.las.Hipotesis.que.Sirven.de.Base.a.la.Geometria.(Bernar
-d.Riemann)[MadMath].pdf (14 pages, 95600 bytes).
+Output written on HipotesisGeometriaRiemann.pdf (14 pages, 95600 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
